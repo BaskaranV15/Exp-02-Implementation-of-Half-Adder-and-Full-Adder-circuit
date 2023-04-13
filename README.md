@@ -68,7 +68,8 @@ endmodule
 ![soo](https://user-images.githubusercontent.com/118703522/231667633-93a6bf24-8cf8-4d7a-a608-00847fe70fd7.png)
 
 ### TIMING DIAGRAM
-![Screenshot 2023-04-13 104236](https://user-images.githubusercontent.com/118703522/231667768-66de7d73-3a49-4139-80f4-0c3ed7969c46.png)
+![supper](https://user-images.githubusercontent.com/118703522/231673771-241df137-86e6-4a59-989e-9e1d662b49e8.png)
+
 ![Screenshot 2023-04-13 105553](https://user-images.githubusercontent.com/118703522/231667812-d26e3e47-c746-4f4e-bcdf-134beced12af.png)
 
 ### TRUTH TABLE 
