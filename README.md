@@ -1,4 +1,4 @@
-# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
+# Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
 ### AIM:
@@ -72,7 +72,7 @@ endmodule
 ![Screenshot 2023-04-13 105553](https://user-images.githubusercontent.com/118703522/231667812-d26e3e47-c746-4f4e-bcdf-134beced12af.png)
 
 ### TRUTH TABLE 
-![Uploading sooooo.png…]()
+
 ![sooo](https://user-images.githubusercontent.com/118703522/231668430-9f4f0c88-799f-477a-aec5-5884b6c22a17.png)
 
 ### Result:
